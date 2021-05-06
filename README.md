@@ -8,6 +8,6 @@ Using textblob for Natural language Processing, this script extracts sentiments 
 
 Run script from command line as :-
  - open the directory where file is cloned
- - python3 sentiment.py   
+ - run python3 sentiment.py   
  
 
